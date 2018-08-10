@@ -16,7 +16,7 @@ module Twilio
 
         @base_url = 'https://api.twilio.com'
         @host = 'api.twilio.com'
-        @port = 443
+        @port = 8443
 
         # Versions
         @v2010 = nil
